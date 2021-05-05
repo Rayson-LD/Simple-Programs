@@ -1,6 +1,6 @@
 # Simple-Programs
-##Calci.html
-#Requirements
+## Calci.html
+# Requirements
 Notepad
-#Details
+# Details
 Calculator application developed using html and javascript
