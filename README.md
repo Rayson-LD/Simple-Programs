@@ -13,7 +13,7 @@ Codeblocks
 # Details
 Drawing a line using opengl plugin on codeblocks
 
-## 2) House.cpp
+## 3) House.cpp
 # Requirements
 OpenGL
 Codeblocks
